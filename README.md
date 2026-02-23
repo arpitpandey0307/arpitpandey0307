@@ -71,8 +71,28 @@
 
 # 🌱 Social
 
-<div align="center">
-  <a href="https://linkedin.com/in/arpitpandey03">
-    <img src="https://img.shields.io/badge/LinkedIn-ArpitPandey-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</div>
+<p align="center">
+
+<a href="https://linkedin.com/in/arpitpandey03">
+  <img src="https://img.shields.io/badge/LinkedIn-ArpitPandey-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<br><br>
+
+<a href="https://www.hackerrank.com/arpitpandey0307">
+  <img src="https://img.shields.io/badge/HackerRank-arpitpandey0307-green?style=for-the-badge&logo=hackerrank" />
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/arpitpandey0307">
+  <img src="https://img.shields.io/badge/LeetCode-arpitpandey0307-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<br><br>
+
+<a href="https://instagram.com/___arpit__pandey__">
+  <img src="https://img.shields.io/badge/Instagram-___arpit__pandey__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
