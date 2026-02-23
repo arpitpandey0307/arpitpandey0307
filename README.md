@@ -7,13 +7,17 @@
 </p>
 
 ---
-# 🚀 about
+# 🚀 About
 
-- 💬 Full Stack Web Developer | Exploring AI & Intelligent Systems
-- 📫 arpitpandey0307@gmail.com
-- 🌏 Social: [LinkedIn](https://linkedin.com/in/arpitpandey03)
+- 👨‍💻 Full Stack Web Developer focused on building scalable, real-world applications.
+- 🤖 Actively exploring Artificial Intelligence, Multimodal Systems, and intelligent automation.
+- 🧠 Strong interest in backend architecture, APIs, and system-level thinking.
+- 🛠 Experienced with JavaScript ecosystem (React, Node.js), REST APIs, and database integration.
+- 📊 Currently strengthening Data Structures & Algorithms and problem-solving through platforms like LeetCode and HackerRank.
+- 🚀 Passionate about building systems that combine software engineering with AI-driven insights.
+- 📫 Reach me at: **arpitpandey0307@gmail.com**
 
-# 🎫 projects
+# 🎫 Projects
 
 - Research & AI Systems
   - [🧬 Identifying Taxonomy and Assessing Biodiversity from eDNA Datasets](https://github.com/arpitpandey0307/Identifying--Taxonomy-and-Assessing-Biodiversity-from-eDNA--Datasets)
@@ -35,7 +39,7 @@
 
 # 🛠 Tech Stack
 
-> skills
+> Skills
 
 - 🔭 back-end： ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)![Express](https://img.shields.io/badge/-Express-black?style=flat-circle&logo=express)![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
 
@@ -64,35 +68,34 @@
 <div align="center">
 
 🕰️ Year Progress:  `{ ███░░░░░░░░░░░░░░░ }` **14.54%** as on **23-Feb-2026**
-
 </div>
 
----
 
+---
 # 🌱 Social
 
-<p align="center">
+<div align="center">
 
 <a href="https://linkedin.com/in/arpitpandey03">
-  <img src="https://img.shields.io/badge/LinkedIn-ArpitPandey-blue?style=for-the-badge&logo=linkedin" />
+  <img width="300" src="https://img.shields.io/badge/LinkedIn-arpitpandey03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://www.hackerrank.com/arpitpandey0307">
-  <img src="https://img.shields.io/badge/HackerRank-arpitpandey0307-green?style=for-the-badge&logo=hackerrank" />
+  <img width="300" src="https://img.shields.io/badge/HackerRank-arpitpandey0307-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 <br><br>
 
 <a href="https://leetcode.com/arpitpandey0307">
-  <img src="https://img.shields.io/badge/LeetCode-arpitpandey0307-orange?style=for-the-badge&logo=leetcode" />
+  <img width="300" src="https://img.shields.io/badge/LeetCode-arpitpandey0307-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br><br>
 
 <a href="https://instagram.com/___arpit__pandey__">
-  <img src="https://img.shields.io/badge/Instagram-___arpit__pandey__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img width="300" src="https://img.shields.io/badge/Instagram-___arpit__pandey__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
+</div>
