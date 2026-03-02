@@ -60,11 +60,10 @@
 
 ---
 
-> Language usage
-
-<div align="center">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpitpandey0307&theme=merko)
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpitpandey0307&theme=github_dark"/>
-</div>
+</div> -->
 
 ---
 
