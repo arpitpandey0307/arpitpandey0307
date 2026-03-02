@@ -40,6 +40,8 @@
 
 # 💻 Recent Work
 
+- Architecting DPOS — a PostgreSQL-backed performance tracking system
+- Engineering a movie ticket booking app with full-stack deployment
 - Building intelligent systems combining backend engineering and AI
 - Exploring data-driven architectures
 - Experimenting with multimodal AI concepts
@@ -60,7 +62,7 @@
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpitpandey0307&theme=merko)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpitpandey0307&theme=github-dark)
 <!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpitpandey0307&theme=github_dark"/>
 </div> -->
