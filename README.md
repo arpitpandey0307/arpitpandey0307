@@ -27,6 +27,15 @@
   - [🤖 Multimodal Intelligence System](https://github.com/arpitpandey0307/multimodal-intelligence-system)
     - Experimental system integrating multimodal inputs to explore intelligent automation and AI-driven decision processes.
 
+- Full Stack Applications
+  - [⚡ DPOS — Daily Performance Operating System](https://github.com/arpitpandey0307/dpos)
+    - A full-stack productivity web app to track daily performance through time blocks, gym sessions, notes, and an auto-calculated daily score. Built with Next.js 16, TypeScript, Tailwind CSS, PostgreSQL (Neon), Prisma, Zustand, and deployed on Railway.
+    - 🔗 **Live:** [dpos-production.up.railway.app](https://dpos-production.up.railway.app)
+
+  - [🎬 Movie Ticket Booking Platform](https://github.com/arpitpandey0307/movie-ticket-booking)
+    - Enterprise-grade movie ticket booking system inspired by BookMyShow with multi-role auth, movie & genre management, Redis caching, and monorepo architecture. Built with Next.js 14, Express.js, TypeScript, PostgreSQL, Redis, Prisma, Docker, and deployed on Railway.
+    - 🔗 **Live:** [movie-bookingweb-production.up.railway.app](https://movie-bookingweb-production.up.railway.app)
+
 ---
 
 # 💻 Recent Work
@@ -41,13 +50,13 @@
 
 > Skills
 
-- 🔭 back-end： ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)![Express](https://img.shields.io/badge/-Express-black?style=flat-circle&logo=express)![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
+- 🔭 back-end： ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)![Express](https://img.shields.io/badge/-Express-black?style=flat-circle&logo=express)![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-circle&logo=next.js)
 
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-circle&logo=css3)
+- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript)![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react)![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-circle&logo=css3)![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-circle&logo=tailwindcss&logoColor=white)
 
-- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Git](https://img.shields.io/badge/-Git-orange?style=flat-circle&logo=git)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
+- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Git](https://img.shields.io/badge/-Git-orange?style=flat-circle&logo=git)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-circle&logo=docker&logoColor=white)![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-circle&logo=prisma&logoColor=white)![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-circle&logo=railway&logoColor=white)
 
-- 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-circle&logo=MongoDB)![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-circle&logo=mysql)
+- 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-circle&logo=MongoDB)![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-circle&logo=mysql)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-circle&logo=postgresql&logoColor=white)![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-circle&logo=redis&logoColor=white)
 
 ---
 
@@ -67,7 +76,7 @@
 
 <div align="center">
 
-🕰️ Year Progress:  `{ ███░░░░░░░░░░░░░░░ }` **14.54%** as on **23-Feb-2026**
+🕰️ Year Progress:  `{ ███░░░░░░░░░░░░░░░ }` **16.71%** as on **02-Mar-2026**
 </div>
 
 
