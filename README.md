@@ -23,10 +23,12 @@
   - [🧬 Identifying Taxonomy and Assessing Biodiversity from eDNA Datasets](https://github.com/arpitpandey0307/Identifying--Taxonomy-and-Assessing-Biodiversity-from-eDNA--Datasets)
     - Machine learning and data analysis project focused on extracting biodiversity insights from environmental DNA datasets.
   
-- Intelligent Systems
-  - [🤖 Multimodal Intelligence System](https://github.com/arpitpandey0307/multimodal-intelligence-system)
-    - Experimental system integrating multimodal inputs to explore intelligent automation and AI-driven decision processes.
-
+- [❤️ Heart Disease Analysis System](https://heart-disease-analysis.vercel.app)
+  - Data visualization project that analyzes patient health data to identify heart disease risk factors using interactive dashboards.
+  - Built using Tableau, Flask, and MySQL to transform raw healthcare data into meaningful visual insights.
+  - Helps doctors, policymakers, and individuals understand disease patterns through interactive charts and analytics.
+  - 🔗 Live : https://heart-disease-analysis.vercel.app
+    
 - Full Stack Applications
   - [⚡ DPOS — Daily Performance Operating System](https://github.com/arpitpandey0307/dpos)
     - A full-stack productivity web app to track daily performance through time blocks, gym sessions, notes, and an auto-calculated daily score. Built with Next.js 16, TypeScript, Tailwind CSS, PostgreSQL (Neon), Prisma, Zustand, and deployed on Railway.
