@@ -48,7 +48,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" alt="Node.js" />
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" alt="VS Code" />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="160" alt="Git" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" alt="GitHub" />
 </p>
 
 <img src="./assets/dividers/sunset.svg" width="100%" />
@@ -68,7 +67,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=arpitpandey0307&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpandey0307&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpandey0307&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6&card_width=340&hide=jupyter%20notebook,html,css,mathematical%20programming%20system,dockerfile,cmake,mako,shell,batchfile" alt="Top languages" />
 </p>
 
 <div align="center">
@@ -92,9 +91,11 @@
 <p align="center">
   <a href="https://linkedin.com/in/arpitpandey03" title="LinkedIn"><img src="./assets/icons/linkedin.svg" width="52" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:arpitpandey0307@gmail.com" title="Email"><img src="./assets/icons/gmail.svg" width="52" alt="Gmail" /></a>&nbsp;
-  <a href="https://github.com/arpitpandey0307" title="GitHub"><img src="./assets/icons/github.svg" width="52" alt="GitHub" /></a>&nbsp;
   <a href="https://leetcode.com/arpitpandey0307" title="LeetCode"><img src="./assets/icons/leetcode.svg" width="52" alt="LeetCode" /></a>&nbsp;
   <a href="https://www.hackerrank.com/arpitpandey0307" title="HackerRank"><img src="./assets/icons/hackerrank.svg" width="52" alt="HackerRank" /></a>&nbsp;
+  <a href="https://x.com/arpitpandey03" title="X"><img src="./assets/icons/x.svg" width="52" alt="X" /></a>&nbsp;
+  <a href="https://dev.to/arpitpandey0307" title="DEV"><img src="./assets/icons/devto.svg" width="52" alt="DEV" /></a>&nbsp;
+  <a href="https://medium.com/@arpitpandey0307" title="Medium"><img src="./assets/icons/medium.svg" width="52" alt="Medium" /></a>&nbsp;
   <a href="https://instagram.com/___arpit__pandey__" title="Instagram"><img src="./assets/icons/instagram.svg" width="52" alt="Instagram" /></a>
 </p>
 

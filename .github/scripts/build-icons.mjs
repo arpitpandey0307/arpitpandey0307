@@ -24,6 +24,8 @@ const CUSTOM = {
   railway: ["railway", "Railway", "#FFFFFF"],
   leetcode: ["leetcode", "LeetCode", "#FFA116"],
   hackerrank: ["hackerrank", "HackerRank", "#00EA64"],
+  x: ["x", "X", "#FFFFFF"],
+  medium: ["medium", "Medium", "#FFFFFF"],
 };
 
 const ROWS = {
@@ -85,7 +87,7 @@ for (const [name, ids] of Object.entries(ROWS)) {
 }
 
 // Single tiles for the "Connect" row, so each can carry its own link.
-for (const id of ["leetcode", "hackerrank"]) {
+for (const id of ["leetcode", "hackerrank", "x", "medium"]) {
   writeFileSync(`${OUT}/icons/${id}.svg`, await customTile(id));
   console.log(`icons/${id}.svg`);
 }
