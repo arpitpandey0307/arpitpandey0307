@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="210" viewBox="0 0 450 210" role="img" aria-label="arpitpandey0307 GitHub stats">
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .title { font-size: 18px; font-weight: 600; fill: #e6edf3; }
+  .sub { font-size: 12px; fill: #8b949e; }
+  .axis { font-size: 11px; fill: #8b949e; }
+  .label { font-size: 14px; fill: #8b949e; }
+  .value { font-size: 14px; font-weight: 700; fill: #e6edf3; }
+  .fade { animation: fade .6s ease-out backwards; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+  @media (prefers-reduced-motion: reduce) { .fade { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="449" height="209" rx="10" fill="#0d1117" stroke="#30363d"/>
+<defs><linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#00F5FF"/><stop offset="100%" stop-color="#7B61FF"/></linearGradient></defs>
+<text x="25" y="36" class="title">Arpit Pandey's GitHub Stats</text>
+<g class="fade" style="animation-delay:0.0s"><text x="25" y="72" style="font-size:13px">⭐</text><text x="50" y="72" class="label">Stars earned:</text><text x="245" y="72" class="value">1</text></g><g class="fade" style="animation-delay:0.1s"><text x="25" y="95" style="font-size:13px">📝</text><text x="50" y="95" class="label">Commits (last year):</text><text x="245" y="95" class="value">285</text></g><g class="fade" style="animation-delay:0.2s"><text x="25" y="118" style="font-size:13px">🔒</text><text x="50" y="118" class="label">Private contributions:</text><text x="245" y="118" class="value">103</text></g><g class="fade" style="animation-delay:0.3s"><text x="25" y="141" style="font-size:13px">🔀</text><text x="50" y="141" class="label">Pull requests:</text><text x="245" y="141" class="value">9</text></g><g class="fade" style="animation-delay:0.4s"><text x="25" y="164" style="font-size:13px">🐞</text><text x="50" y="164" class="label">Issues:</text><text x="245" y="164" class="value">0</text></g><g class="fade" style="animation-delay:0.5s"><text x="25" y="187" style="font-size:13px">📦</text><text x="50" y="187" class="label">Public repositories:</text><text x="245" y="187" class="value">22</text></g><circle cx="365" cy="118" r="46" fill="none" stroke="#21262d" stroke-width="8"/>
+<circle cx="365" cy="118" r="46" fill="none" stroke="url(#ring)" stroke-width="8" stroke-linecap="round" stroke-dasharray="289.0" transform="rotate(-90 365 118)"/>
+<text x="365" y="120" text-anchor="middle" style="font-size:24px;font-weight:700" fill="#e6edf3">420</text>
+<text x="365" y="140" text-anchor="middle" class="axis">contributions</text>
+</svg>

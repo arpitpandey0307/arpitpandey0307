@@ -1,0 +1,45 @@
+name: Update profile stats
+
+# Rebuilds the activity graph, stats, languages and streak cards.
+# GitHub caches contribution data for a few hours, so frequent runs keep the images close to live.
+on:
+  schedule:
+    - cron: "17 */4 * * *" # every 4 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/profile-stats.mjs"
+      - ".github/workflows/profile-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Generate stats images
+        run: node .github/scripts/profile-stats.mjs ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update profile stats"
+          git pull --rebase
+          git push

@@ -2,7 +2,7 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 1 * * *" # daily, 06:30 IST
+    - cron: "43 */6 * * *" # every 6 hours
   workflow_dispatch:
   push:
     branches: [main]

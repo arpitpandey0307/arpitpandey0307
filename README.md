@@ -60,19 +60,28 @@
     <img alt="Contribution activity over the last 31 days" src="./assets/activity-graph-light.svg" width="100%">
   </picture>
   <br>
-  <sub>Generated daily by a GitHub Action from my contribution calendar.</sub>
+  <sub>Every stat on this page is regenerated automatically by GitHub Actions.</sub>
 </div>
 
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arpitpandey0307&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpandey0307&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6&card_width=340&hide=jupyter%20notebook,html,css,mathematical%20programming%20system,dockerfile,cmake,mako,shell,batchfile" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+    <img alt="GitHub stats" src="./assets/stats-light.svg" height="170">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
+    <img alt="Most used languages" src="./assets/languages-light.svg" height="170">
+  </picture>
 </p>
 
-<div align="center">
-  <img height="200px" src="https://streak-stats.demolab.com/?user=arpitpandey0307&theme=tokyonight&hide_border=true&border_radius=10" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/streak-dark.svg">
+    <img alt="Contribution streak" src="./assets/streak-light.svg" width="100%">
+  </picture>
+</p>
 
 <br>
 
