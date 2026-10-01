@@ -33,7 +33,6 @@ const ROWS = {
   frontend: ["react", "nextjs", "tailwind", "vite", "html", "css", "threejs", "gsap", "p5js", "maplibre", "leaflet"],
   databases: ["postgres", "mongodb", "mysql", "redis", "prisma", "neo4j", "firebase", "supabase"],
   cloud: ["docker", "gcp", "githubactions", "vercel", "render", "railway", "git", "github", "linux", "cmake", "postman", "vscode"],
-  learning: ["kubernetes", "aws", "terraform"],
 };
 
 const PER_LINE = 12;

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="358" viewBox="0 0 560 358" role="img" aria-label="About Arpit Pandey">
+<style>
+  text { font-family: "Fira Code", "JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 14px; white-space: pre; }
+  @keyframes show { from { opacity: 0 } }
+  @keyframes fade { from { opacity: 0; transform: translateX(-6px) } }
+  @keyframes type { from { transform: translateX(0) } to { transform: translateX(var(--w)) } }
+  .cv { transform: translateX(560px); }
+  @keyframes blink { 50% { opacity: 0 } }
+  .l0{animation:show .01s 0.40s backwards}
+  .c0{animation:type 0.30s steps(6) 0.65s backwards}
+  .l1{animation:fade .35s ease-out 1.20s backwards}
+  .l2{animation:show .01s 1.38s backwards}
+  .c2{animation:type 0.54s steps(12) 1.63s backwards}
+  .l3{animation:fade .35s ease-out 2.42s backwards}
+  .l4{animation:fade .35s ease-out 2.60s backwards}
+  .l5{animation:fade .35s ease-out 2.78s backwards}
+  .l6{animation:fade .35s ease-out 2.96s backwards}
+  .l7{animation:show .01s 3.14s backwards}
+  .c7{animation:type 0.63s steps(14) 3.39s backwards}
+  .l8{animation:fade .35s ease-out 4.27s backwards}
+  .l9{animation:fade .35s ease-out 4.45s backwards}
+  .l10{animation:show .01s 4.63s backwards}
+  .c10{animation:type 0.58s steps(13) 4.88s backwards}
+  .l11{animation:fade .35s ease-out 5.71s backwards}
+  .end{animation:show .01s 5.89s backwards}
+  .cur{animation:blink 1s steps(1) 5.89s infinite}
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+</style>
+<defs><clipPath id="win"><rect width="560" height="358" rx="12"/></clipPath></defs>
+<g clip-path="url(#win)">
+  <rect width="560" height="358" fill="#0d1117"/>
+  <rect width="560" height="34" fill="#161b22"/>
+  <circle cx="20" cy="17" r="6" fill="#ff5f57"/><circle cx="40" cy="17" r="6" fill="#febc2e"/><circle cx="60" cy="17" r="6" fill="#28c840"/>
+  <text x="280" y="22" text-anchor="middle" fill="#8b949e" style="font-size:12px">arpit@github: ~ — zsh</text>
+  <g class="l0"><text x="20" y="58"><tspan fill="#7ee787">arpit</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#7ee787">github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text><rect class="cv c0" x="154.4" y="43" width="560" height="22" fill="#0d1117" style="--w:52px"/></g>
+  <text class="l1" x="20" y="80"><tspan fill="#d2a8ff">Arpit Pandey</tspan><tspan fill="#c9d1d9"> — Full Stack &amp; Systems Engineer</tspan></text>
+  <g class="l2"><text x="20" y="102"><tspan fill="#7ee787">arpit</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#7ee787">github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">cat about.md</tspan></text><rect class="cv c2" x="154.4" y="87" width="560" height="22" fill="#0d1117" style="--w:103px"/></g>
+  <text class="l3" x="20" y="124"><tspan fill="#ffa657">▸ </tspan><tspan fill="#c9d1d9">Builds platforms end to end: C++ cores → Next.js UIs</tspan></text>
+  <text class="l4" x="20" y="146"><tspan fill="#ffa657">▸ </tspan><tspan fill="#c9d1d9">Agentic &amp; multimodal AI · multi-agent systems · RAG</tspan></text>
+  <text class="l5" x="20" y="168"><tspan fill="#ffa657">▸ </tspan><tspan fill="#c9d1d9">Simulation, digital twins &amp; numerical computing</tspan></text>
+  <text class="l6" x="20" y="190"><tspan fill="#ffa657">▸ </tspan><tspan fill="#c9d1d9">Hackathon regular · DSA on LeetCode &amp; HackerRank</tspan></text>
+  <g class="l7"><text x="20" y="212"><tspan fill="#7ee787">arpit</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#7ee787">github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">cat stack.json</tspan></text><rect class="cv c7" x="154.4" y="197" width="560" height="22" fill="#0d1117" style="--w:120px"/></g>
+  <text class="l8" x="20" y="234"><tspan fill="#8b949e">{ </tspan><tspan fill="#ff7b72">"core"</tspan><tspan fill="#8b949e">: [</tspan><tspan fill="#a5d6ff">"C++"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Python"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"TypeScript"</tspan><tspan fill="#8b949e">],</tspan></text>
+  <text class="l9" x="20" y="256"><tspan fill="#8b949e">  </tspan><tspan fill="#ff7b72">"ai"</tspan><tspan fill="#8b949e">: [</tspan><tspan fill="#a5d6ff">"PyTorch"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Gemini"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Ollama"</tspan><tspan fill="#8b949e">] }</tspan></text>
+  <g class="l10"><text x="20" y="278"><tspan fill="#7ee787">arpit</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#7ee787">github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">echo $CONTACT</tspan></text><rect class="cv c10" x="154.4" y="263" width="560" height="22" fill="#0d1117" style="--w:111px"/></g>
+  <text class="l11" x="20" y="300"><tspan fill="#79c0ff">arpitpandey0307@gmail.com</tspan></text>
+  <g class="end"><text x="20" y="322"><tspan fill="#7ee787">arpit</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#7ee787">github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan></text><rect class="cur" x="154.4" y="308" width="9" height="18" fill="#7ee787"/></g>
+</g>
+<rect x="0.5" y="0.5" width="559" height="357" rx="12" fill="none" stroke="#30363d"/>
+</svg>

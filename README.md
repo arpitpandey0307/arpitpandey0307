@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=720&lines=Hello+,+there+!+%F0%9F%91%8B;I+build+AI+%2B+systems+that+ship.;C%2B%2B+solvers+%E2%86%92+Next.js+dashboards;Smart+India+Hackathon+2026+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=720&lines=Hello+,+there+!+%F0%9F%91%8B;I+build+AI+%2B+systems+that+ship.;C%2B%2B+solvers+%E2%86%92+Next.js+dashboards;Agentic+AI+%E2%80%A2+Simulation+%E2%80%A2+Digital+Twins" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -14,63 +14,12 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Full Stack & Systems Engineer building real-world platforms end to end — from C++ solver cores to Next.js dashboards.
-- 🌊 Currently building for **Smart India Hackathon 2026**: urban flood nowcasting, GPU-accelerated optimization and air-gapped agentic AI.
-- 🤖 Working on agentic & multimodal AI — multi-agent systems, RAG over private documents, LLM-powered decision support (Gemini, local open-weight models).
-- 🧠 Strong interest in backend architecture, simulation, digital twins and numerical computing.
-- 📊 Sharpening Data Structures & Algorithms on LeetCode and HackerRank.
-- 📫 Reach me at: **arpitpandey0307@gmail.com**
+<p align="center">
+  <img src="./assets/about-terminal.svg" width="58%" alt="Terminal: whoami — Arpit Pandey, Full Stack &amp; Systems Engineer" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="38%" alt="Developer coding at a desk" />
+</p>
 
 <img src="./assets/dividers/aqua.svg" width="100%" />
-
-## 🏆 Featured — Smart India Hackathon 2026
-
-- [🌊 Drishti — Street-level Urban Flood Nowcasting](https://github.com/arpitpandey0307/Drishti) · *SIH26085*
-  - Closed-loop flood intelligence: rainfall nowcasting, 1D–2D hydraulic simulation, digital-twin state assimilation and probabilistic forecasts — *know where the water will stand, three hours before it does.*
-  - Python · NumPy/SciPy physics · PyTorch → ONNX surrogate · MapLibre GL + Three.js dashboard
-  - 🔗 **Live:** [Dashboard](https://drishti-indol.vercel.app/dashboard/) · [3D storm replay](https://drishti-indol.vercel.app/) · [Explainer video](https://youtu.be/MfLX_qhArzU)
-
-- [⚙️ SOV-OPT — Sovereign GPU-Accelerated Optimization Engine](https://github.com/arpitpandey0307/SOV-OPT) · *SIH26119 (MRPL)*
-  - LP / MILP / QP solver written from scratch in C++20 with CUDA — no existing solver library — with trustworthy presolve, numerical self-healing, safe reoptimization and an independent solution verifier benchmarked against HiGHS.
-  - C++20 · CUDA · pybind11 · FastAPI · Next.js · Docker
-
-- [🛡️ Sovereign On-Premise Agentic AI Workbench](https://github.com/arpitpandey0307/Sovereign-On-Premise-Agentic-AI-Workbench) · *SIH26117 (MRPL)*
-  - Air-gapped-by-design AI workbench: upload confidential reports, P&IDs and spreadsheets, then run multi-step agents with code execution on locally hosted open-weight models — zero external network calls, full audit trail.
-  - FastAPI · SQLAlchemy · Neo4j knowledge graph · OCR + RAG · sandboxed execution · React · Playwright
-
-<img src="./assets/dividers/fire.svg" width="100%" />
-
-## 🤖 AI & Intelligent Systems
-
-| Project | What it does | Stack |
-|---|---|---|
-| [🏟️ FIFA Nexus AI](https://github.com/arpitpandey0307/fifa) · [Live](https://fifa-three-nu.vercel.app) | Smart-stadium ops platform — crowd, security, incidents, transport & multilingual fan assistant | Next.js 16, Gemini, Cloud Run |
-| [🏙️ CityTwin AI](https://github.com/arpitpandey0307/digital-twin) | Multi-agent "AI Chief Officer" with an 8-stage cascading city digital-twin simulator | FastAPI, React, Docker |
-| [🔍 BiasLens](https://github.com/arpitpandey0307/bias-lens) · [Live](https://biaslens-ui.onrender.com/) | Plug-and-play fairness auditor — 4 fairness metrics, AI explanations, PDF reports | FastAPI, React, Gemini |
-| [🗳️ ElectIQ](https://github.com/arpitpandey0307/electiq) | Gamified election education with streaming AI chat, timeline, quizzes & scenario simulator | FastAPI, Gemini 2.5, Cloud Run |
-| [🧠 SmartDesk](https://github.com/arpitpandey0307/smart-desk) | Multi-agent AI Chief of Staff (Gen AI Academy APAC 2026) | Google ADK, Gemini, Vertex AI |
-| [🏟️ StadiumOS](https://github.com/arpitpandey0307/Stadium-OS) | 4-agent coordination engine simulating live stadium operations | Node.js, Next.js, Firebase, Leaflet |
-| [💹 Venture Alpha](https://github.com/arpitpandey0307/venture-capital) | Autonomous VC scouting agent — trend detection, due diligence & investment memos | Python, Gemini, Exa, MongoDB |
-| [🌿 EcoGuide AI](https://github.com/arpitpandey0307/carbon-foot) | Carbon-footprint assistant with ranked, personalised reduction plans | React, rule engine |
-| [👁️ Multimodal Intelligence System](https://github.com/arpitpandey0307/multimodal-intelligence-system) | Text + vision fusion for VQA, captioning and automation pipelines | Python, Jupyter |
-| [🧬 eDNA Biodiversity](https://github.com/arpitpandey0307/-Identifying--Taxonomy-and-Assessing-Biodiversity-from-eDNA--Datasets) | Taxonomy identification & biodiversity assessment from environmental DNA | TypeScript, ML |
-
-<img src="./assets/dividers/neon.svg" width="100%" />
-
-## 🌐 Full Stack & Web
-
-| Project | What it does | Stack |
-|---|---|---|
-| [⚡ DPOS](https://github.com/arpitpandey0307/dpos) · [Live](https://dpos-red.vercel.app/) | Daily Performance OS — time blocks, gym logs, notes & auto-calculated daily score | Next.js 16, Prisma, PostgreSQL |
-| [🎬 Movie Ticket Booking](https://github.com/arpitpandey0307/movie-ticket-booking) | BookMyShow-style platform with multi-role auth & Redis caching | Next.js, Express, MongoDB, Redis |
-| [⬇️ Kinetic_DL](https://github.com/arpitpandey0307/Kinetic_DL) · [Live](https://kinetic-downloader.onrender.com) | Cyberpunk multi-platform video downloader & in-app streamer | TypeScript, Express, yt-dlp |
-| [🚀 ARES VII](https://github.com/arpitpandey0307/ares-vii) · [Live](https://ares-vii.vercel.app) | Scroll-driven 3D storytelling journey from Earth to Mars | Three.js, GSAP |
-| [❤️ Heart Disease Analysis](https://github.com/arpitpandey0307/Heart-disease-analysis) · [Live](https://heart-disease-analysis.vercel.app) | Interactive dashboards revealing cardiovascular risk patterns | Tableau, Flask, MySQL |
-| [📈 Netflix Stock Prediction](https://github.com/arpitpandey0307/netflix-stock-prediction) | End-to-end ML pipeline dashboard — EDA to 5 regression models | Python, Streamlit, scikit-learn |
-| [🎮 Gamefied Therapy](https://github.com/arpitpandey0307/gamefied-therapy) | Camera-based gamified physiotherapy with real-time pose tracking | TensorFlow.js MoveNet, p5.js |
-| [🏘️ Community Hub](https://github.com/arpitpandey0307/community-hub) | Society notice board — announcements, events, marketplace | HTML, CSS, JavaScript |
-
-<img src="./assets/dividers/matrix.svg" width="100%" />
 
 ## 🛠️ Skills & Technologies
 
@@ -92,8 +41,15 @@
 <h3 align="center">☁️ Cloud, DevOps & Tools</h3>
 <p align="center"><img src="./assets/skills/cloud.svg" alt="Docker, Google Cloud, GitHub Actions, Vercel, Render, Railway, Git, GitHub, Linux, CMake, Postman, VS Code" /></p>
 
-<h3 align="center">📚 Currently Learning</h3>
-<p align="center"><img src="./assets/skills/learning.svg" alt="Kubernetes, AWS, Terraform" /></p>
+<h3 align="center">✨ Daily Drivers</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Python" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="JavaScript" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" alt="Node.js" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" alt="VS Code" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="160" alt="Git" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" alt="GitHub" />
+</p>
 
 <img src="./assets/dividers/sunset.svg" width="100%" />
 
@@ -110,9 +66,24 @@
 
 <br>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arpitpandey0307&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpandey0307&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top languages" />
+</p>
+
 <div align="center">
   <img height="200px" src="https://streak-stats.demolab.com/?user=arpitpandey0307&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpitpandey0307/arpitpandey0307/output/snake-dark.svg">
+    <img alt="Contribution snake eating my contribution graph" src="https://raw.githubusercontent.com/arpitpandey0307/arpitpandey0307/output/snake-light.svg" width="100%">
+  </picture>
+</div>
+
 
 <img src="./assets/dividers/rainbow.svg" width="100%" />
 
