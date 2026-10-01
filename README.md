@@ -1,13 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=38&duration=3500&color=00BFFF&center=true&vCenter=true&width=700&lines=Hello+,+there+!+%F0%9F%91%8B;I+am+Arpit+Pandey....;I+build+AI+%2B+systems+that+ship." />
+  <img src="./assets/banners/header.svg" width="100%" alt="Arpit Pandey — Full Stack • Systems • AI Engineer" />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=arpitpandey0307&label=Visitors&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=720&lines=Hello+,+there+!+%F0%9F%91%8B;I+build+AI+%2B+systems+that+ship.;C%2B%2B+solvers+%E2%86%92+Next.js+dashboards;Smart+India+Hackathon+2026+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing intro" />
 </p>
 
----
-# 🚀 About
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arpitpandey0307&label=Profile%20views&color=7B61FF&style=for-the-badge" alt="Profile views" />
+</p>
+
+<img src="./assets/dividers/rainbow.svg" width="100%" />
+
+## 🚀 About Me
 
 - 👨‍💻 Full Stack & Systems Engineer building real-world platforms end to end — from C++ solver cores to Next.js dashboards.
 - 🌊 Currently building for **Smart India Hackathon 2026**: urban flood nowcasting, GPU-accelerated optimization and air-gapped agentic AI.
@@ -16,9 +21,9 @@
 - 📊 Sharpening Data Structures & Algorithms on LeetCode and HackerRank.
 - 📫 Reach me at: **arpitpandey0307@gmail.com**
 
----
+<img src="./assets/dividers/aqua.svg" width="100%" />
 
-# 🏆 Featured — Smart India Hackathon 2026
+## 🏆 Featured — Smart India Hackathon 2026
 
 - [🌊 Drishti — Street-level Urban Flood Nowcasting](https://github.com/arpitpandey0307/Drishti) · *SIH26085*
   - Closed-loop flood intelligence: rainfall nowcasting, 1D–2D hydraulic simulation, digital-twin state assimilation and probabilistic forecasts — *know where the water will stand, three hours before it does.*
@@ -33,9 +38,9 @@
   - Air-gapped-by-design AI workbench: upload confidential reports, P&IDs and spreadsheets, then run multi-step agents with code execution on locally hosted open-weight models — zero external network calls, full audit trail.
   - FastAPI · SQLAlchemy · Neo4j knowledge graph · OCR + RAG · sandboxed execution · React · Playwright
 
----
+<img src="./assets/dividers/fire.svg" width="100%" />
 
-# 🤖 AI & Intelligent Systems
+## 🤖 AI & Intelligent Systems
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -50,9 +55,9 @@
 | [👁️ Multimodal Intelligence System](https://github.com/arpitpandey0307/multimodal-intelligence-system) | Text + vision fusion for VQA, captioning and automation pipelines | Python, Jupyter |
 | [🧬 eDNA Biodiversity](https://github.com/arpitpandey0307/-Identifying--Taxonomy-and-Assessing-Biodiversity-from-eDNA--Datasets) | Taxonomy identification & biodiversity assessment from environmental DNA | TypeScript, ML |
 
----
+<img src="./assets/dividers/neon.svg" width="100%" />
 
-# 🌐 Full Stack & Web
+## 🌐 Full Stack & Web
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -65,25 +70,34 @@
 | [🎮 Gamefied Therapy](https://github.com/arpitpandey0307/gamefied-therapy) | Camera-based gamified physiotherapy with real-time pose tracking | TensorFlow.js MoveNet, p5.js |
 | [🏘️ Community Hub](https://github.com/arpitpandey0307/community-hub) | Society notice board — announcements, events, marketplace | HTML, CSS, JavaScript |
 
----
+<img src="./assets/dividers/matrix.svg" width="100%" />
 
-# 🛠 Tech Stack
+## 🛠️ Skills & Technologies
 
-- 🧮 languages： ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=openjdk)![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+<h3 align="center">🧑‍💻 Languages</h3>
+<p align="center"><img src="./assets/skills/languages.svg" alt="Python, C++, C, TypeScript, JavaScript, Java, Bash, CUDA" /></p>
 
-- 🔭 back-end： ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodedotjs&logoColor=white)![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
+<h3 align="center">🤖 AI / ML</h3>
+<p align="center"><img src="./assets/skills/ai.svg" alt="PyTorch, TensorFlow, scikit-learn, OpenCV, NumPy, pandas, Jupyter, ONNX, Gemini, Ollama, Streamlit" /></p>
 
-- 👯 front-end： ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react)![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat&logo=threedotjs)![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
+<h3 align="center">⚙️ Backend</h3>
+<p align="center"><img src="./assets/skills/backend.svg" alt="Node.js, Express, FastAPI, Flask, SQLAlchemy" /></p>
 
-- 🤖 AI / ML： ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat&logo=onnx&logoColor=white)![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white)![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat&logo=ollama)
+<h3 align="center">🎨 Frontend & 3D</h3>
+<p align="center"><img src="./assets/skills/frontend.svg" alt="React, Next.js, Tailwind CSS, Vite, HTML, CSS, Three.js, GSAP, p5.js, MapLibre, Leaflet" /></p>
 
-- 💻 db： ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+<h3 align="center">🗄️ Databases</h3>
+<p align="center"><img src="./assets/skills/databases.svg" alt="PostgreSQL, MongoDB, MySQL, Redis, Prisma, Neo4j, Firebase, Supabase" /></p>
 
-- ☁️ cloud & tools：![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode)
+<h3 align="center">☁️ Cloud, DevOps & Tools</h3>
+<p align="center"><img src="./assets/skills/cloud.svg" alt="Docker, Google Cloud, GitHub Actions, Vercel, Render, Railway, Git, GitHub, Linux, CMake, Postman, VS Code" /></p>
 
----
+<h3 align="center">📚 Currently Learning</h3>
+<p align="center"><img src="./assets/skills/learning.svg" alt="Kubernetes, AWS, Terraform" /></p>
 
-# 📈 Activity
+<img src="./assets/dividers/sunset.svg" width="100%" />
+
+## 📈 Activity
 
 <div align="center">
   <picture>
@@ -100,31 +114,19 @@
   <img height="200px" src="https://streak-stats.demolab.com/?user=arpitpandey0307&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
 
----
-# 🌱 Social
+<img src="./assets/dividers/rainbow.svg" width="100%" />
 
-<div align="center">
+<h2 align="center">🌐 Connect With Me</h2>
 
-<a href="https://linkedin.com/in/arpitpandey03">
-  <img width="300" src="https://img.shields.io/badge/LinkedIn-arpitpandey03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/arpitpandey03" title="LinkedIn"><img src="./assets/icons/linkedin.svg" width="52" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:arpitpandey0307@gmail.com" title="Email"><img src="./assets/icons/gmail.svg" width="52" alt="Gmail" /></a>&nbsp;
+  <a href="https://github.com/arpitpandey0307" title="GitHub"><img src="./assets/icons/github.svg" width="52" alt="GitHub" /></a>&nbsp;
+  <a href="https://leetcode.com/arpitpandey0307" title="LeetCode"><img src="./assets/icons/leetcode.svg" width="52" alt="LeetCode" /></a>&nbsp;
+  <a href="https://www.hackerrank.com/arpitpandey0307" title="HackerRank"><img src="./assets/icons/hackerrank.svg" width="52" alt="HackerRank" /></a>&nbsp;
+  <a href="https://instagram.com/___arpit__pandey__" title="Instagram"><img src="./assets/icons/instagram.svg" width="52" alt="Instagram" /></a>
+</p>
 
-<br><br>
-
-<a href="https://www.hackerrank.com/arpitpandey0307">
-  <img width="300" src="https://img.shields.io/badge/HackerRank-arpitpandey0307-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<br><br>
-
-<a href="https://leetcode.com/arpitpandey0307">
-  <img width="300" src="https://img.shields.io/badge/LeetCode-arpitpandey0307-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br><br>
-
-<a href="https://instagram.com/___arpit__pandey__">
-  <img width="300" src="https://img.shields.io/badge/Instagram-___arpit__pandey__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="./assets/banners/footer.svg" width="100%" />
+</p>
