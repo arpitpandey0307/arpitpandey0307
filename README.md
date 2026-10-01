@@ -68,11 +68,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
-    <img alt="GitHub stats" src="./assets/stats-light.svg" height="170">
+    <img alt="GitHub stats" src="./assets/stats-light.svg" width="49%">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
-    <img alt="Most used languages" src="./assets/languages-light.svg" height="170">
+    <img alt="Most used languages" src="./assets/languages-light.svg" width="49%">
   </picture>
 </p>
 
