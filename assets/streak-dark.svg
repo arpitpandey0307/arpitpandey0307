@@ -12,12 +12,12 @@
 </style>
 <rect x="0.5" y="0.5" width="899" height="199" rx="10" fill="#0d1117" stroke="#30363d"/>
 <g class="fade" style="animation-delay:0.00s">
-<text x="150" y="84" text-anchor="middle" style="font-size:40px;font-weight:800" fill="#00F5FF">415</text>
+<text x="150" y="84" text-anchor="middle" style="font-size:40px;font-weight:800" fill="#00F5FF">422</text>
 <text x="150" y="148" text-anchor="middle" class="label" style="font-size:19px;font-weight:700" fill="#e6edf3">Total Contributions</text>
 <text x="150" y="174" text-anchor="middle" class="axis" style="font-size:14px">Sep 28, 2025 – Present</text></g><line x1="300" x2="300" y1="30" y2="172" stroke="#30363d"/><g class="fade" style="animation-delay:0.15s"><circle cx="450" cy="70" r="44" fill="none" stroke="#FF9100" stroke-width="6"/><text x="450" y="34" text-anchor="middle" style="font-size:24px">🔥</text>
-<text x="450" y="84" text-anchor="middle" style="font-size:40px;font-weight:800" fill="#FF9100">2</text>
+<text x="450" y="84" text-anchor="middle" style="font-size:40px;font-weight:800" fill="#FF9100">1</text>
 <text x="450" y="148" text-anchor="middle" class="label" style="font-size:19px;font-weight:700" fill="#e6edf3">Current Streak</text>
-<text x="450" y="174" text-anchor="middle" class="axis" style="font-size:14px">Sep 29 – Sep 30</text></g><line x1="600" x2="600" y1="30" y2="172" stroke="#30363d"/><g class="fade" style="animation-delay:0.30s">
+<text x="450" y="174" text-anchor="middle" class="axis" style="font-size:14px">Oct 2</text></g><line x1="600" x2="600" y1="30" y2="172" stroke="#30363d"/><g class="fade" style="animation-delay:0.30s">
 <text x="750" y="84" text-anchor="middle" style="font-size:40px;font-weight:800" fill="#7B61FF">8</text>
 <text x="750" y="148" text-anchor="middle" class="label" style="font-size:19px;font-weight:700" fill="#e6edf3">Longest Streak</text>
 <text x="750" y="174" text-anchor="middle" class="axis" style="font-size:14px">Apr 3 – Apr 10</text></g>
