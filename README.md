@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=720&lines=Hello+,+there+!+%F0%9F%91%8B;I+build+AI+%2B+systems+that+ship.;C%2B%2B+solvers+%E2%86%92+Next.js+dashboards;Agentic+AI+%E2%80%A2+Simulation+%E2%80%A2+Digital+Twins" alt="Typing intro" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arpitpandey0307&label=Profile%20views&color=7B61FF&style=for-the-badge" alt="Profile views" />
-</p>
+</p> -->
 
 <img src="./assets/dividers/rainbow.svg" width="100%" />
 
